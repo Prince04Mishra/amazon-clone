@@ -38,8 +38,7 @@ function Home() {
           />
           <Product
             id="2678206"
-            title="
-OnePlus Buds Pro Wireless Earbuds| with Charging Case |IP55 | Smart Adaptive Noise Cancellation Sound | Matte Black,E503A"
+            title="OnePlus Buds Pro Wireless Earbuds| with Charging Case |IP55 | Smart Adaptive Noise Cancellation Sound | Matte Black,E503A"
             price={129.99}
             image="https://m.media-amazon.com/images/I/61NHgmxCPWL._AC_SL1500_.jpg"
             rating={5}
@@ -54,11 +53,34 @@ OnePlus Buds Pro Wireless Earbuds| with Charging Case |IP55 | Smart Adaptive Noi
         </div>
         <div className="home_row">
           <Product
-            id="5552385"
-            title="Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6 Full HD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard"
-            price={1252.04}
-            image="https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_SX355_.jpg"
+            id="5972385"
+            title="SplashEZ 3-in-1 Splash Pad, Sprinkler for Kids and Wading Pool for Learning – Children’s Sprinkler Pool, 60’’ Inflatable.."
+            price={25}
+            image="https://m.media-amazon.com/images/I/714yJ3j0jCL._AC_UL480_FMwebp_QL65_.jpg"
             rating={5}
+          />
+        </div>
+        <div className="home_row">
+          <Product
+            id="637766"
+            title="Star Wars The Black Series Inquisitor – Fourth Sister, OBI-Wan Kenobi 6-Inch Collectible Action Figures, Ages 4 and Up"
+            price={24}
+            image="https://m.media-amazon.com/images/I/61uwyaJJLIL._AC_UL480_FMwebp_QL65_.jpg"
+            rating={4}
+          />
+          <Product
+            id="2679204"
+            title="​Hot Wheels Marvel Spider-Man Large Scale Character Car! [Amazon Exclusive]"
+            price={20.99}
+            image="https://m.media-amazon.com/images/I/71TMGWer2cL._AC_UL480_FMwebp_QL65_.jpg"
+            rating={5}
+          />
+          <Product
+            id="6780263"
+            title="LEGO Marvel Infinity Gauntlet 76191 Collectible Building Kit; Thanos Right Hand Gauntlet Model with Infinity StonesLOCALMODE Men's 100% Cotton Long Sleeve Plaid Slim Fit Button Down Dress Shirt..."
+            price={55}
+            image="https://m.media-amazon.com/images/I/81Fer8PyyGS._AC_UL480_FMwebp_QL65_.jpg"
+            rating={4}
           />
         </div>
       </div>
